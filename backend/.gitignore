@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.log
+backend_error.log
+model/*.h5
+model/*.json
+!model/README.md
+.vscode/
+.idea/
